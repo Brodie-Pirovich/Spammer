@@ -1,0 +1,9 @@
+C:\Users\Brodie\source\repos\SpamBot\SpamBot\bin\Release\SpamBot.exe.config
+C:\Users\Brodie\source\repos\SpamBot\SpamBot\bin\Release\SpamBot.exe
+C:\Users\Brodie\source\repos\SpamBot\SpamBot\bin\Release\SpamBot.pdb
+C:\Users\Brodie\source\repos\SpamBot\SpamBot\obj\Release\SpamBot.Form1.resources
+C:\Users\Brodie\source\repos\SpamBot\SpamBot\obj\Release\SpamBot.Properties.Resources.resources
+C:\Users\Brodie\source\repos\SpamBot\SpamBot\obj\Release\SpamBot.csproj.GenerateResource.cache
+C:\Users\Brodie\source\repos\SpamBot\SpamBot\obj\Release\SpamBot.csproj.CoreCompileInputs.cache
+C:\Users\Brodie\source\repos\SpamBot\SpamBot\obj\Release\SpamBot.exe
+C:\Users\Brodie\source\repos\SpamBot\SpamBot\obj\Release\SpamBot.pdb
